@@ -1,12 +1,17 @@
 ### Olá! Eu sou Manoel Iranilson 😁👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-iranilson-vieira-8b6695191/)
+<a href = "mailto:manoelvieirafilho0@gmmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoel-iranilson&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/Manoel-iranilson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manoel-iranilson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-iranilson&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-iranilson)](https://github.com/anuraghazra/github-readme-stats)
+##
 
-### Tecnologia que uso
+### Tecnologias que uso
 
 <div>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
