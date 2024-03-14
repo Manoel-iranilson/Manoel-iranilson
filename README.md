@@ -1,22 +1,64 @@
-### Olá! Eu sou Manoel Iranilson 😁👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-iranilson-vieira-8b6695191/)
-<a href = "mailto:manoelvieirafilho0@gmmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!-- Presentation -->
+<p>
+  Oi 👋, Eu sou o Manoel! Um estudante apaixonado por Desenvolvimento.
 
-##
+  - 🌱 Estudo atualmente Sistemas de Informação na Uninassau  
 
-### Tecnologias que uso
+  - 🔭Estou à procura de oportunidade de emprego.
+</p>
 
-<div>
-  <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
-  <img aling="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img aling="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img aling="center" alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img aling="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img aling="center" alt="React-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img aling="center" alt="Style-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=whit" />
-</div></br>
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Mais sobre mim </summary>
 
-Apaixonado por tecnologia, estudando a cada dia para torna-me mais capacitado!!
+  - 💬 Sou um desenvolvedor que ama o que faz. É como se eu estivesse fazendo algo divertido, as horas passam “Voando” quando estou desenvolvendo, gosto de aprimorar o que já sei, por isso estou sempre à procura de aprender para me tornar um profissional cada vez mais capacitado e alcançar voos maiores.
 
-![Snake animation](https://github.com/Manoel-iranilson/Manoel-iranilson/blob/output/github-contribution-grid-snake.svg)
+  - ⚡ Tenho pouco mais de 1 ano de experiência e já atuei tanto no front-end como no back-end , utilizando React, Next , HTML/CSS3, Nest e atualmente estou estudando Flutter.
+
+</details>
+
+<!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoeliranilson/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](manoelvieirafilho0@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](88996685478)
+
+
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=manoel-iranilson&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-iranilson&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Portfolio -->
+## Portfolio:
+- [Flutter - App em flutter](https://github.com/Manoel-iranilson/flutter-football)
+- [React - Chat em Real Time](https://github.com/Manoel-iranilson/Chat-React)
+- [Nest - API](https://github.com/Manoel-iranilson/api-football)
+
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+    
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  </div>
+  
