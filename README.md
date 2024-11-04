@@ -8,9 +8,6 @@
 <p>
   Oi 👋, Eu sou o Manoel! Um estudante apaixonado por Desenvolvimento.
 
-  - 🌱 Estudo atualmente Sistemas de Informação na Uninassau  
-
-  - 🔭Estou à procura de oportunidade de emprego.
 </p>
 
 <!-- Dropdown -->
