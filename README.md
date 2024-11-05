@@ -19,7 +19,7 @@
 
 Estou sempre em busca de inovação e aprendizado constante, acompanhando tudo o que acontece no mundo da tecnologi
 
-  - ⚡ Tenho pouco mais de 1 ano de experiência e já atuei tanto no front-end como no back-end , utilizando React, Next , HTML/CSS3, Nest e atualmente estou estudando Flutter.
+  - ⚡Trabalho tanto no front-end como no back-end , utilizando React, Next , HTML/CSS3, Nest.
 
 </details>
 
