@@ -14,8 +14,8 @@
 <details>
   <summary>👨‍💻 Mais sobre mim </summary>
 
-  - 💬 Sou um desenvolvedor focado em Front End com pouco mais de 1 ano de experiência, especializado em trazer soluções que priorizam um código limpo e a escalabilidade do projeto, com um ótimo SEO. Já atuei em diversos projetos, incluindo internacionalização de sites, melhoria de SEO, disparos em massa, sistemas de gestão de empresas e sistemas financeiros.
-        Durante minha trajetória, fui responsável pelo desenvolvimento frontend completo de e-commerce, garantindo uma experiência de usuário de alta qualidade. Desenvolvi soluções low-code, criei layouts intuitivos que aumentaram a usabilidade e fidelidade dos clientes e contribuí com ideias inovadoras em reuniões de equipe. Minha experiência inclui revisão de código e implementação de melhores práticas,           princípios e melhorias de desempenho.
+  - 💬 Sou desenvolvedor especializado em Front End, focado em oferecer soluções que priorizam código limpo, escalabilidade e excelente SEO. Já trabalhei em diversos projetos, incluindo internacionalização de sites, aprimoramento de SEO, disparos em massa, sistemas de gestão empresarial e financeiros.
+        Minha atuação envolve o desenvolvimento completo de interfaces de e-commerce, garantindo uma experiência de usuário de alta qualidade. Também criei soluções low-code, desenvolvi layouts intuitivos que aumentaram a usabilidade e fidelidade dos clientes e sempre contribuí com ideias inovadoras durante reuniões de equipe. Além disso, realizo revisão de código, aplico as melhores práticas e aprimoro o            desempenho das aplicações.
 
 Estou sempre em busca de inovação e aprendizado constante, acompanhando tudo o que acontece no mundo da tecnologi
 
